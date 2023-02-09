@@ -3,4 +3,4 @@ This repository contains the source code for a video downloading website that su
 
 
 
-                                                                      How to use:
+                                                           How to use:
