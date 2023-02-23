@@ -33,10 +33,12 @@ git clone https://github.com/JoshimOfficial/FIPY_downloader.git
 ## Usage (Most important)
 
 First of all create a DB named `yt_scraper` then create a table named `webfixer` with id, url, created_date, and created_time column.
-set as  id = int (primary);
-        url = varchar;
-        created_date = date;
-        time = time.
+set as  
+
+- id = int (primary);
+- url = varchar;
+- created_date = date;
+- time = time.
 
 And now manually insert a data url to your current localhost project location like:
 
@@ -44,7 +46,7 @@ http://localhost/downloader/FIPY_downloader
 
 
 
-Note: Never put the slashes `/` to the end like: 
+- Note: Never put the slashes `/` to the end like: 
 
 http://localhost/tailwind/10/test/FIPY_downloader/
 
@@ -52,7 +54,7 @@ This is wrong way.
 
 
 
-You should put the url like:
+- You should put the url like:
 
 http://localhost/tailwind/10/test/FIPY_downloader
 
@@ -73,15 +75,15 @@ There are some limitation on code.
 
 
 `Facebook:`
-Facebook video can be downloaded if url contains `https://fb.com/watch/XXXX`.
-Facebook video uploader name can be shown wrong sometimes.
+- Facebook video can be downloaded if url contains `https://fb.com/watch/XXXX`.
+- Facebook video uploader name can be shown wrong sometimes.
 
 `YouTube:`
-Youtube video download section may not be shown sometimes.
-Youtube all urls sometime may not work properly.
+- Youtube video download section may not be shown sometimes.
+- Youtube all urls sometime may not work properly.
 
 `Pinterest:`
-Pinterest all urls not working in sometimes.
+- Pinterest all urls not working in sometimes.
 
 
 ## About me on this project:
