@@ -10,8 +10,8 @@ This repository contains the source code for a video downloading website that su
 ## DEMO
 
 ![Alt Text](demos/Facebook.gif)
-![][Pinterest_gif]
-![][YouTube_gif]
+![Alt Text](demos/YouTube.gif)
+![Alt Text](demos/Pinterest.gif)
 
 
 ## Installation
@@ -52,13 +52,6 @@ http://localhost/tailwind/10/test/FIPY_downloader
 
 Now run you project index.php file to your localhost. 
 
-
-### Adapt to Android 9.0
-
-Starting with Android 9.0 (API level 28), cleartext support is disabled by default, you can have a look at [here](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted) to know about more details.
-FileDownloader demo has handled this problem start with 1.7.6.
-
-According to the [migration notes](https://developer.android.com/about/versions/pie/android-9.0-migration#tya), the FOREGROUND_SERVICE permission has been added to the library manifest since FileDownloader 1.7.6.
 
 ## Feature
 
