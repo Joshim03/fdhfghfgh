@@ -9,7 +9,7 @@ This repository contains the source code for a video downloading website that su
 
 ## DEMO
 
-![][Facebook_gif]
+![Alt Text](demos/Facebook.gif)
 ![][Pinterest_gif]
 ![][YouTube_gif]
 
